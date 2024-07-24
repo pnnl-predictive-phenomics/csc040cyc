@@ -1,0 +1,3446 @@
+;;;      ---  Trial Parse Results for Rhodococcus <high G+C Gram-positive bacteria> strain  ---
+;;;
+;;; This report summarizes the findings of the PathoLogic parser for
+;;; the annotation files selected by the user for trial parsing.
+;;; Through inspection of this report, the user can tell whether features of major
+;;; importance were not recognized, possibly due to syntax errors or other
+;;; problems in the annotation files.
+;;;
+;;; If you want to change annotation file(s) to improve their parsability, 
+;;; update the annotation files.
+;;; Then, re-run the Trial Parse command.
+
+
+;;; -----------------------------------------------------------
+
+;;; Parsing results for annotation file:
+;;;        /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+
+;;; NODE_5+_length_1387911_cov_1.141931387911
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                      1350
+gene-name :                      607
+gene-startbase :                1350
+gene-endbase :                  1350
+gene-product-type :             1350
+  gene-Proteins :                 1339
+  gene-Pseudogene :                  0
+  gene-tRNAs :                      11
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                 1350
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   637
+  predicted :                        0
+  putative :                        69
+genes with synonyms :              0
+
+;;; NODE_6+_length_1349654_cov_1.038981349654
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                      1256
+gene-name :                      666
+gene-startbase :                1256
+gene-endbase :                  1256
+gene-product-type :             1256
+  gene-Proteins :                 1242
+  gene-Pseudogene :                  0
+  gene-tRNAs :                      13
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    1
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                 1256
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   502
+  predicted :                        0
+  putative :                        77
+genes with synonyms :              0
+
+;;; NODE_13+_length_643951_cov_1.28298643951
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       611
+gene-name :                      251
+gene-startbase :                 611
+gene-endbase :                   611
+gene-product-type :              611
+  gene-Proteins :                  600
+  gene-Pseudogene :                  0
+  gene-tRNAs :                      11
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  611
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   297
+  predicted :                        0
+  putative :                        37
+genes with synonyms :              0
+
+;;; NODE_16+_length_563904_cov_1.24347563904
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       535
+gene-name :                      243
+gene-startbase :                 535
+gene-endbase :                   535
+gene-product-type :              535
+  gene-Proteins :                  534
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       1
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  535
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   260
+  predicted :                        0
+  putative :                        28
+genes with synonyms :              0
+
+;;; NODE_17+_length_543379_cov_1.11114543379
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       535
+gene-name :                      228
+gene-startbase :                 535
+gene-endbase :                   535
+gene-product-type :              535
+  gene-Proteins :                  531
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       4
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  535
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   277
+  predicted :                        0
+  putative :                        18
+genes with synonyms :              0
+
+;;; NODE_19+_length_493067_cov_1.02394493067
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       442
+gene-name :                      210
+gene-startbase :                 442
+gene-endbase :                   442
+gene-product-type :              442
+  gene-Proteins :                  437
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       5
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  442
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   190
+  predicted :                        0
+  putative :                        23
+genes with synonyms :              0
+
+;;; NODE_23+_length_347104_cov_1.20354347104
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       321
+gene-name :                      143
+gene-startbase :                 321
+gene-endbase :                   321
+gene-product-type :              321
+  gene-Proteins :                  320
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       1
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  321
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   143
+  predicted :                        0
+  putative :                        10
+genes with synonyms :              0
+
+;;; NODE_34+_length_198441_cov_1.16115198441
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       191
+gene-name :                       68
+gene-startbase :                 191
+gene-endbase :                   191
+gene-product-type :              191
+  gene-Proteins :                  191
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  191
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                   109
+  predicted :                        0
+  putative :                        15
+genes with synonyms :              0
+
+;;; NODE_36+_length_157882_cov_1.05968157882
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       145
+gene-name :                       84
+gene-startbase :                 145
+gene-endbase :                   145
+gene-product-type :              145
+  gene-Proteins :                  143
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       2
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  145
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                    52
+  predicted :                        0
+  putative :                         5
+genes with synonyms :              0
+
+;;; NODE_40+_length_115630_cov_1.04279115630
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       106
+gene-name :                       53
+gene-startbase :                 106
+gene-endbase :                   106
+gene-product-type :              106
+  gene-Proteins :                  103
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       3
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  106
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                    39
+  predicted :                        0
+  putative :                         6
+genes with synonyms :              0
+
+;;; NODE_43+_length_104192_cov_1.2202104192
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                        91
+gene-name :                       29
+gene-startbase :                  91
+gene-endbase :                    91
+gene-product-type :               91
+  gene-Proteins :                   91
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                   91
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                    59
+  predicted :                        0
+  putative :                         4
+genes with synonyms :              0
+
+;;; NODE_45+_length_100344_cov_1.13662100344
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                       112
+gene-name :                       39
+gene-startbase :                 112
+gene-endbase :                   112
+gene-product-type :              112
+  gene-Proteins :                  111
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       1
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                  112
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                    66
+  predicted :                        0
+  putative :                         7
+genes with synonyms :              0
+
+;;; NODE_48+_length_81094_cov_1.6339681094
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                        87
+gene-name :                        8
+gene-startbase :                  87
+gene-endbase :                    87
+gene-product-type :               87
+  gene-Proteins :                   87
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                   87
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                    77
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_52+_length_72240_cov_1.2324972240
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                        72
+gene-name :                        7
+gene-startbase :                  72
+gene-endbase :                    72
+gene-product-type :               72
+  gene-Proteins :                   72
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                   72
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                    64
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_53+_length_65007_cov_1.031665007
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                        61
+gene-name :                       22
+gene-startbase :                  61
+gene-endbase :                    61
+gene-product-type :               61
+  gene-Proteins :                   57
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       4
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                   61
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                    30
+  predicted :                        0
+  putative :                         4
+genes with synonyms :              0
+
+;;; NODE_67+_length_35727_cov_1.7177735727
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                        40
+gene-name :                       13
+gene-startbase :                  40
+gene-endbase :                    40
+gene-product-type :               40
+  gene-Proteins :                   40
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                   40
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                    23
+  predicted :                        0
+  putative :                         2
+genes with synonyms :              0
+
+;;; NODE_71+_length_24387_cov_1.0746524387
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         7
+gene-name :                        2
+gene-startbase :                   7
+gene-endbase :                     7
+gene-product-type :                7
+  gene-Proteins :                    7
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    7
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     5
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_74+_length_20524_cov_1.1264120524
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                        16
+gene-name :                        8
+gene-startbase :                  16
+gene-endbase :                    16
+gene-product-type :               16
+  gene-Proteins :                   16
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                   16
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     7
+  predicted :                        0
+  putative :                         2
+genes with synonyms :              0
+
+;;; NODE_76+_length_12506_cov_1.1412506
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                        10
+gene-name :                        8
+gene-startbase :                  10
+gene-endbase :                    10
+gene-product-type :               10
+  gene-Proteins :                   10
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                   10
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     1
+  predicted :                        0
+  putative :                         1
+genes with synonyms :              0
+
+;;; NODE_83+_length_8020_cov_1.170578020
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         6
+gene-name :                        2
+gene-startbase :                   6
+gene-endbase :                     6
+gene-product-type :                6
+  gene-Proteins :                    6
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    6
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     4
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_85+_length_6174_cov_1.085636174
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         6
+gene-name :                        0
+gene-startbase :                   6
+gene-endbase :                     6
+gene-product-type :                6
+  gene-Proteins :                    6
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    6
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     6
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_87+_length_5623_cov_0.9829745623
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         5
+gene-name :                        3
+gene-startbase :                   5
+gene-endbase :                     5
+gene-product-type :                5
+  gene-Proteins :                    5
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    5
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     2
+  predicted :                        0
+  putative :                         1
+genes with synonyms :              0
+
+;;; NODE_88+_length_5273_cov_1.964885273
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         3
+gene-name :                        0
+gene-startbase :                   3
+gene-endbase :                     3
+gene-product-type :                3
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       3
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    3
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_95+_length_2812_cov_0.9158282812
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_97+_length_2806_cov_0.853722806
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         1
+gene-name :                        0
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    1
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     1
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_108+_length_1643_cov_0.9721011643
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_109+_length_1595_cov_0.9493051595
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_114+_length_1412_cov_1.06581412
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         1
+gene-name :                        0
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    1
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     1
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_115+_length_1220_cov_2.022561220
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         1
+gene-name :                        0
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    1
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     1
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_120+_length_827_cov_2.20315827
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_125+_length_631_cov_1.78643631
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_128+_length_593_cov_1.77021593
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_129+_length_579_cov_0.806924579
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         1
+gene-name :                        0
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    1
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     1
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_130+_length_579_cov_1.83632579
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_131+_length_579_cov_1.50657579
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         1
+gene-name :                        0
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    1
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     1
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_134+_length_544_cov_1.65384544
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         1
+gene-name :                        0
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    1
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     1
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_136+_length_515_cov_1.42853515
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_137+_length_509_cov_1.70522509
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_138+_length_418_cov_1.98338418
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         1
+gene-name :                        0
+gene-startbase :                   1
+gene-endbase :                     1
+gene-product-type :                1
+  gene-Proteins :                    1
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    1
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     1
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_139+_length_393_cov_0.861811393
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_141+_length_369_cov_1.60116369
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_142+_length_365_cov_1.50848365
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_145+_length_261_cov_0.80569261
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_146+_length_261_cov_1.54479261
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_147+_length_250_cov_2.5489250
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_148+_length_235_cov_0.748073235
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_149+_length_235_cov_0.81778235
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_150+_length_217_cov_1.98049217
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_152+_length_214_cov_2.17006214
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_153+_length_198_cov_1.03158198
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_154+_length_184_cov_1.35375184
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_157+_length_169_cov_0.799142169
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_158+_length_169_cov_1.5122169
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_160+_length_164_cov_0.856306164
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_161+_length_159_cov_2.42352159
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_166+_length_146_cov_1.90228146
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_168+_length_134_cov_2.39698134
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_169+_length_132_cov_1.69865132
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_171+_length_127_cov_0.951124127
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_172+_length_127_cov_0.865225127
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_173+_length_106_cov_0.945296106
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_176+_length_93_cov_0.61494593
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_180+_length_68_cov_0.72572568
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_184+_length_64_cov_0.82436264
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_186+_length_61_cov_1.5290961
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_187+_length_56_cov_0.86940856
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_188+_length_56_cov_1.4481456
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_190+_length_55_cov_1.0250255
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_204+_length_24_cov_0.62834324
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_206+_length_18_cov_1.0674218
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_207+_length_18_cov_1.9125518
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_208+_length_16_cov_0.93564216
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_209+_length_16_cov_0.9839516
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_210+_length_11_cov_0.73334611
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_211+_length_11_cov_0.81102911
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_212+_length_10_cov_0.69644610
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_215+_length_5_cov_0.9100925
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_216+_length_5_cov_0.9348295
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_220+_length_1_cov_0.6946471
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_223+_length_1_cov_0.6144331
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_224+_length_1_cov_0.623871
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_225+_length_1_cov_1.024941
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_228+_length_1_cov_1.150571
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_230+_length_1_cov_0.6134011
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_234+_length_1_cov_0.589221
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_235+_length_1_cov_0.7353431
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_239+_length_1_cov_0.630211
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_240+_length_1_cov_0.638321
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_241+_length_1_cov_0.7581991
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;; NODE_242+_length_1_cov_0.5790451
+;;;
+;;; The annotation file used by the parser is:
+;;; /Users/mahs128/ptools-local/pgdbs/user/csc040cyc/27.5/input/all_merged_rhodococcus.gbk
+
+;;; This section of the report summarizes the frequency with which different information
+;;; fields were encountered in the annotation file.
+gene-IDs :                         0
+gene-name :                        0
+gene-startbase :                   0
+gene-endbase :                     0
+gene-product-type :                0
+  gene-Proteins :                    0
+  gene-Pseudogene :                  0
+  gene-tRNAs :                       0
+  gene-rRNAs :                       0
+  gene-snRNAs :                      0
+  gene-snoRNAs :                     0
+  gene-miscRNAs :                    0
+product-IDs :                      0 [cannot be supplied in Genbank files]
+product-accessions :               0 [cannot be supplied in Genbank files]
+product-names :                    0
+product-synonyms :                 0 [cannot be supplied in Genbank files]
+total EC numbers :                 0
+  genes with an EC number :          0
+  genes with >1 EC numbers :         0
+total supplied MetaCyc reaction ids :       0
+  genes with a supplied MetaCyc reaction id :       0
+  genes with >1 supplied MetaCyc reaction id :       0
+total GO terms linked to reactions :       0
+  genes with a GO term linked to reactions :       0
+  genes with >1 GO terms linked to reactions :       0
+gene-products:
+  hypothetical :                     0
+  predicted :                        0
+  putative :                         0
+genes with synonyms :              0
+
+;;;; :::::::: Ignored gene features and qualifiers ::::::::
+
+The Annotation file contains these additional feature qualifiers,
+which have not been processed:
+(/translation= /transl_table= /codon_start= /inference= /strain=
+ /mol_type= /organism=)
+
